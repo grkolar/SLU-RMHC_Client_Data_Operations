@@ -31,7 +31,7 @@ You will see a detailed list of the files.  You can then download your file usin
   
 Where you replace `<filename>` with the specific file you would like to download (you can use the tab key to expand unique names).  **The path to your local directory depends on your system.**
 
-####Advanced Downloading
+#### Advanced Downloading
 We will attempt to organize your files in a directory for you.  Such directories (by user and date) will be appear as folders in the command line.  You will use the 
 
 `cd <subdirectory_name>`
