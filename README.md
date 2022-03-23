@@ -1,7 +1,15 @@
 # SLU-RMHC_Client_Data_Access
 This a description of how to interact and retrieve your data with the SLU-RMHC.
 
-[[_TOC_]]
+- Table of Contents
+  * [Using Billikenscope (OMERO)](#using-billikenscope--omero)
+  * [Using the RMHC FTPServer](#using-the-rmhc-ftpserver)
+    + [Login Information](#login-information)
+    + [Using Filezilla](#using-filezilla)
+    + [Command Line Instructions](#command-line-instructions)
+      - [Downloading your files (basic)](#downloading-your-files--basic)
+      - [Advanced Downloading](#advanced-downloading)
+    + [Password Change](#password-change)
 
 ## Using Billikenscope (OMERO)
 
